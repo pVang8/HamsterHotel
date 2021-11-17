@@ -1,0 +1,141 @@
+.navColor{
+    background-color: #000324;
+}
+.navBlack{
+    color: #000324;
+}
+.heroColor{
+    background-color: #000324;
+    filter: brightness(100%);
+    color: white;
+}
+.buttonSize{
+    height: 25px;
+    width: 75px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.textCenter{
+    text-align: center;
+}
+.imageBottom{
+    position: relative;
+    top: 100px;
+}
+.wordDown{
+    position: relative;
+    top:10px;
+}
+.navText{
+    color: white;
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px/26px;
+    align-self: flex-end;
+}
+.heroImage{
+    background-image: url("/images/header.jpg");
+    background-size: cover;
+    height: 100%;
+    background-position: center;
+}
+.heroImage2{
+    background-image: url("/images/bg2.jpg");
+    background-size: cover;
+    height: 100%;
+    background-position: center;
+}
+.heroImage3{
+    background-image: url("/images/bg.jpg");
+    background-size: cover;
+    height: 100%;
+    background-position: center;
+}
+.heroImage4{
+    background-image: url("/images/hamsterreserve.jpg");
+    background-size: cover;
+    height: 100%;
+    background-position: center ;
+}
+.basicFont{
+    font-family: 'Dosis', sans-serif;
+}
+.heroContent{
+    justify-content: center;
+}
+.heroBox{
+    background-color: #000324;
+    opacity: 75%;
+    margin: 155px 155px;
+    display: flex;
+    padding: 25px;
+}
+.heroBox2{
+    background-color: #000324;
+    margin: 10px 10px;
+    
+}
+.white{
+    color: white;
+}
+.secondPage{
+    margin-top: 100px;
+}
+.thirdPage{
+    margin-top: 50px;
+    
+}
+.thirdPageBottom{
+    margin-bottom: 100px;
+}
+.secondTextTitle{
+    
+    font-family: 'Dosis', sans-serif;
+    font-size: 35px/44px;
+}
+.secondText{
+    
+    font-family: 'Dosis', sans-serif;
+    font-size: 16px/20px;
+}
+.pageThreeTitle{
+    font-family: 'Dosis', sans-serif;
+    font-size: 35px/44px;
+}
+.cardText{
+    font-size: 16px/20px;
+    font-family: 'Dosis', sans-serif;
+}
+.bold{
+    font-weight: bold;
+}
+.thirdPageTitle{
+    font-size: 35px/44px;
+    font-family: 'Dosis', sans-serif;
+}
+.thirdPageMiniTitle{
+    font-size: 25px/32px;
+    font-family: 'Dosis', sans-serif;
+}
+.price{
+    font-size: 16px/20px;
+    font-family: 'Dosis', sans-serif;
+    color: #1f51a8;
+}
+.packageContent{
+    font-size: 16px/20px;
+    font-family: 'Dosis', sans-serif;
+}
+.amenitiesBottom{
+    margin-bottom: 150px;
+}
+.reserveRoomtop{
+    margin-top: 80px;
+}
+.reserveRoomBot{
+    margin-bottom: 150px;
+}
+.reservePad{
+    margin-left: 50px;
+    margin-right: 50px;
+}
